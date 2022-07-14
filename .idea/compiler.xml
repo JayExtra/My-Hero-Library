@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="My_Hero_Library.app" target="11" />
+      <module name="My_Hero_Library.cache" target="11" />
+      <module name="My_Hero_Library.domain" target="11" />
+      <module name="My_Hero_Library.presentation" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
